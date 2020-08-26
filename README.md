@@ -28,6 +28,7 @@ jobs:
 ## Author
 
 Manuel Gomez [@codingManu](https://www.codingmanu.com)
+
 Heavily based in and using parts of [Norio Nomura's GitHub Action for SwiftLint](https://github.com/norio-nomura/action-swiftlint)
 
 ## License
